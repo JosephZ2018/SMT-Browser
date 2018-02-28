@@ -1,0 +1,15 @@
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\bin\Release\JBrowser2018.exe.config
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\bin\Release\JBrowser2018.exe
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\bin\Release\JBrowser2018.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\bin\Release\JBrowser2018.xml
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\WindowsApplication1.Main.resources
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\WindowsApplication1.Setting.resources
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\JBrowser2018.vbproj.GenerateResource.Cache
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\JBrowser2018.exe
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\JBrowser2018.xml
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\JBrowser2018.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\bin\Release\JBrowser2018.exe.manifest
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\bin\Release\JBrowser2018.application
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\JBrowser2018.exe.manifest
+C:\Users\admin\documents\visual studio 2010\Projects\JBrowser2018\JBrowser2018\obj\x86\Release\JBrowser2018.application

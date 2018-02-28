@@ -1,0 +1,267 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchEngine1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=%22%s%22</Value>
+    </Setting>
+    <Setting Name="SearchEngine2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.com/search?newwindow=1&amp;ei=wvhFWumeD-mC0wKGmrDYDw&amp;q=define%3A+%22%s%22</Value>
+    </Setting>
+    <Setting Name="SearchEngine3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.bing.com/dict/search?q=%22%s%22</Value>
+    </Setting>
+    <Setting Name="SearchEngine4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.google.com</Value>
+    </Setting>
+    <Setting Name="SEname1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">wiki百科</Value>
+    </Setting>
+    <Setting Name="SEname2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">google词典</Value>
+    </Setting>
+    <Setting Name="SEname3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">bing双语例句</Value>
+    </Setting>
+    <Setting Name="SEname4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">google</Value>
+    </Setting>
+    <Setting Name="SEtab1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">基本信息</Value>
+    </Setting>
+    <Setting Name="SEtab2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">英语</Value>
+    </Setting>
+    <Setting Name="SEtab3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">日语</Value>
+    </Setting>
+    <Setting Name="SEtab4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">法语</Value>
+    </Setting>
+    <Setting Name="SEname11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SEname34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">baidu</Value>
+    </Setting>
+    <Setting Name="SearchEngine11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SearchEngine34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://www.baidu.com</Value>
+    </Setting>
+    <Setting Name="SetTabID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ScrollX1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Scale1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ScrollX11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Scale11" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale12" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale13" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale14" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ScrollX21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Scale21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ScrollY21" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY22" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY23" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY24" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollX34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ScrollY34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Scale31" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale32" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale33" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Scale34" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Autosave" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Autofilename" Type="System.String" Scope="User">
+      <Value Profile="(Default)">File Name Not Defined</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

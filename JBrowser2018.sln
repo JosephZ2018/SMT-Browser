@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "JBrowser2018_v1_2", "JBrowser2018\JBrowser2018_v1_2.vbproj", "{9EF7525B-7446-4698-8CEE-2ED0DDB738D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EF7525B-7446-4698-8CEE-2ED0DDB738D0}.Debug|x86.ActiveCfg = Debug|x86
+		{9EF7525B-7446-4698-8CEE-2ED0DDB738D0}.Debug|x86.Build.0 = Debug|x86
+		{9EF7525B-7446-4698-8CEE-2ED0DDB738D0}.Release|x86.ActiveCfg = Release|x86
+		{9EF7525B-7446-4698-8CEE-2ED0DDB738D0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C343E5-7576-49AE-A205-2BE823BBD95A}
+	EndGlobalSection
+EndGlobal

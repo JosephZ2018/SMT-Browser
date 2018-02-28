@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="WindowsApplication1.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <system.diagnostics>
+        <sources>
+            <!-- This section defines the logging configuration for My.Application.Log -->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- Uncomment the below section to write to the Application Event Log -->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <switches>
+            <add name="DefaultSwitch" value="Information" />
+        </switches>
+        <sharedListeners>
+            <add name="FileLog"
+                 type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                 initializeData="FileLogWriter"/>
+            <!-- Uncomment the below section and replace APPLICATION_NAME with the name of your application to write to the Application Event Log -->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <userSettings>
+        <WindowsApplication1.My.MySettings>
+            <setting name="SearchEngine1" serializeAs="String">
+                <value>http://en.wikipedia.org/w/index.php?title=Special:Search&amp;search=%22%s%22</value>
+            </setting>
+            <setting name="SearchEngine2" serializeAs="String">
+                <value>https://www.google.com/search?newwindow=1&amp;ei=wvhFWumeD-mC0wKGmrDYDw&amp;q=define%3A+%22%s%22</value>
+            </setting>
+            <setting name="SearchEngine3" serializeAs="String">
+                <value>https://www.bing.com/dict/search?q=%22%s%22</value>
+            </setting>
+            <setting name="SearchEngine4" serializeAs="String">
+                <value>https://www.google.com/search?q=%3A+%22%s%22&amp;newwindow=1&amp;source=lnms&amp;tbm=isch</value>
+            </setting>
+            <setting name="SEname1" serializeAs="String">
+                <value>wiki百科</value>
+            </setting>
+            <setting name="SEname2" serializeAs="String">
+                <value>google词典</value>
+            </setting>
+            <setting name="SEname3" serializeAs="String">
+                <value>bing双语例句</value>
+            </setting>
+            <setting name="SEname4" serializeAs="String">
+                <value>google图片</value>
+            </setting>
+        </WindowsApplication1.My.MySettings>
+    </userSettings>
+</configuration>
